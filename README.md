@@ -24,8 +24,8 @@ Below are the instructions for this assignment. Your repository should automatic
 
 * Name: David Nguyen (dxvid)
 
-* Partner: Tanner Nantabutr (tannern)**
+* Partner: Tanner Nantabutr (tannern)
 
-* **Link to selected coding challenge: https://leetcode.com/problems/find-the-difference-of-two-arrays/?envType=study-plan-v2&envId=leetcode-75 **
+* **Link to selected coding challenge:** https://leetcode.com/problems/find-the-difference-of-two-arrays/?envType=study-plan-v2&envId=leetcode-75
 
-* **Summary of partner's interview feedback: Tanner explained his process of thinking very well and made sure I understood what he was doing. Tanner was able to solve the problem quite efficient.**
+* **Summary of partner's interview feedback: Tanner explained his process of thinking very well and made sure I understood what he was doing. Tanner was able to solve the problem quite efficiently.**
